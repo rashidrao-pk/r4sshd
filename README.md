@@ -1,4 +1,4 @@
-# Muhammad Rashid
+# Muhammad Rashid (PhD)
 
 Machine Learning Researcher | Computer Vision | Explainable AI | Anomaly Detection
 
@@ -17,7 +17,7 @@ Machine Learning Researcher | Computer Vision | Explainable AI | Anomaly Detecti
 [ORCID](https://orcid.org/0000-0002-2557-6845) · 
 [LinkedIn](https://www.linkedin.com/in/r4ssh1d)
 
-PhD researcher at the **University of Turin (Italy)** working on **Explainable AI**, **Computer Vision**, and **visual anomaly detection**.
+Research Fellow at the **University of Turin (Italy)** working on **Explainable AI**, **Computer Vision**, and **visual anomaly detection**.
 
 ---
 
