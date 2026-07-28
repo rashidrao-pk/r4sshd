@@ -30,10 +30,12 @@ Research Fellow at the **University of Turin (Italy)** working on **Explainable 
 
 [![Top Langs](https://gh-stats.skiddph.com/api/top-langs?username=rashidrao-pk&layout=compact&langs_count=10&hide=html,css&exclude_repo=old-project&theme=tokyonight)](https://github.com/rashidrao-pk)
 
-![Streak](https://streak-stats.demolab.com/?user=rashidrao-pk&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rashidrao-pk&theme=minimal&hide_border=true&area=true"
+    alt="GitHub contribution activity graph"
+    style="max-width:100%; height:auto;"
+  />
+</p>
 
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashidrao-pk&show_icons=true&hide_title=true&hide_border=true" height="140"/>
-</p>
